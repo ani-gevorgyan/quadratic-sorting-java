@@ -1,2 +1,6 @@
 # quadratic-sorting-java
-Quadratic sorting algorithms implemented using Java.
+This repository contains four quadratic sorting algorithms implemented using Java.
+The algorithms include: 
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
