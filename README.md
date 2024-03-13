@@ -1,4 +1,4 @@
-# quadratic-sorting-java
+# sorting-algorithms
 This repository contains three quadratic two efficient sorting algorithms implemented using Java.
 The quadratic algorithms include: 
 - Selection Sort
